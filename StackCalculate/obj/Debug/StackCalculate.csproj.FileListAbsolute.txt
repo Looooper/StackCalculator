@@ -1,0 +1,7 @@
+C:\Users\Administrator\Desktop\StackCalculate\StackCalculate\bin\Debug\StackCalculate.exe
+C:\Users\Administrator\Desktop\StackCalculate\StackCalculate\bin\Debug\StackCalculate.pdb
+C:\Users\Administrator\Desktop\StackCalculate\StackCalculate\obj\Debug\StackCalculate.Properties.Resources.resources
+C:\Users\Administrator\Desktop\StackCalculate\StackCalculate\obj\Debug\StackCalculate.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\StackCalculate\StackCalculate\obj\Debug\StackCalculate.exe
+C:\Users\Administrator\Desktop\StackCalculate\StackCalculate\obj\Debug\StackCalculate.pdb
+C:\Users\Administrator\Desktop\StackCalculate\StackCalculate\obj\Debug\StackCalculate.Calculater.resources
