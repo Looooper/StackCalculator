@@ -7,3 +7,9 @@ C:\Users\Administrator\Desktop\StackCalculate\StackCalculate\obj\Debug\StackCalc
 C:\Users\Administrator\Desktop\StackCalculate\StackCalculate\obj\Debug\StackCalculate.Calculater.resources
 D:\GitHubRepositories\StackCalculator\StackCalculate\obj\Debug\StackCalculate.exe
 D:\GitHubRepositories\StackCalculator\StackCalculate\obj\Debug\StackCalculate.pdb
+D:\GitHubRepositories\StackCalculator\StackCalculate\bin\Debug\StackCalculate.exe
+D:\GitHubRepositories\StackCalculator\StackCalculate\bin\Debug\StackCalculate.pdb
+D:\GitHubRepositories\StackCalculator\StackCalculate\obj\Debug\StackCalculate.csprojResolveAssemblyReference.cache
+D:\GitHubRepositories\StackCalculator\StackCalculate\obj\Debug\StackCalculate.Calculator.resources
+D:\GitHubRepositories\StackCalculator\StackCalculate\obj\Debug\StackCalculate.Properties.Resources.resources
+D:\GitHubRepositories\StackCalculator\StackCalculate\obj\Debug\StackCalculate.csproj.GenerateResource.Cache
