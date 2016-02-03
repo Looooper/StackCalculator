@@ -4,9 +4,9 @@ using System.Windows.Forms;
 
 namespace StackCalculate
 {
-    public partial class Calculater : Form
+    public partial class Calculator : Form
     {
-        public Calculater()
+        public Calculator()
         {
             InitializeComponent();
         }

@@ -5,3 +5,5 @@ C:\Users\Administrator\Desktop\StackCalculate\StackCalculate\obj\Debug\StackCalc
 C:\Users\Administrator\Desktop\StackCalculate\StackCalculate\obj\Debug\StackCalculate.exe
 C:\Users\Administrator\Desktop\StackCalculate\StackCalculate\obj\Debug\StackCalculate.pdb
 C:\Users\Administrator\Desktop\StackCalculate\StackCalculate\obj\Debug\StackCalculate.Calculater.resources
+D:\GitHubRepositories\StackCalculator\StackCalculate\obj\Debug\StackCalculate.exe
+D:\GitHubRepositories\StackCalculator\StackCalculate\obj\Debug\StackCalculate.pdb

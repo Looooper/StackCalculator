@@ -1,6 +1,6 @@
 ﻿namespace StackCalculate
 {
-    partial class Calculater
+    partial class Calculator
     {
         /// <summary>
         /// 必需的设计器变量。
